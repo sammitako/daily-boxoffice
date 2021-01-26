@@ -1,4 +1,4 @@
-## Daily Box Office Chart 
+# Daily Box Office Chart 
 
 🎥 **Description**
 
@@ -16,6 +16,6 @@
 
 
 
-### Demo Website
+## Demo Website
 
 ![daily_boxoffice](md-images/daily_boxoffice.png)
