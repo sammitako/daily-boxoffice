@@ -18,5 +18,4 @@
 
 ### Demo Website
 
-<video src="md-images/daily_boxoffice.mp4"></video>
-
+![daily_boxoffice](md-images/daily_boxoffice.png)
